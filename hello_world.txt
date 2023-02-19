@@ -2,3 +2,4 @@ I love code
 Odin Project 
 where's the other lines of text?
 trying to add vs code as default text editor
+Seeing if git push still works
